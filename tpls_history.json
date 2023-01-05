@@ -18,7 +18,7 @@
             "author": "Antiky",
             "url": "https://raw.githubusercontent.com/qiandao-today/templates/master/saraba1st-1h.har",
             "update": false,
-            "comments": "用户名+密码 登陆<br>一小时挂机，点击定时选择cron效果更好<br>10 * * * *<br>url: https://bbs.saraba1st.com/",
+            "comments": "用户名密码登陆 一小时挂机<br>时长3063秒，间隔537s<br>推荐定时cron效果更好：10 * * * *<br>url: https://bbs.saraba1st.com/",
             "filename": "saraba1st-1h.har",
             "content": "",
             "date": "2023-01-05 20:30:00",

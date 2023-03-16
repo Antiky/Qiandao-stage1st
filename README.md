@@ -1,6 +1,6 @@
 # Qiandao-stage1st S1论坛 签到与挂机
 Discuz! X3.4 论坛挂机一小时循环 For Qiandao 签到框架
-https://github.com/Antiky/Qiandao-stage1st
+https://github.com/qiandao-today/templates
 ### 现已合并进主分支，无需手动添加此仓库
 ## 一小时挂机，点击定时选择cron效果更好：10 * * * *
 ## Response Error : HTTP 599: Operation timed out after 30001 milliseconds
